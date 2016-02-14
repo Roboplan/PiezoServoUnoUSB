@@ -1,22 +1,3 @@
-Project Content
-===============
-*	ArduinoUno
-*	ArduinoUnoExt
-*	Servo
-*	PiezoSensor
-*	BarrelJack12v
-
-Bill Of Materials
-===
-Qty|Desc
--|-
-1|[Piezo Element](https://www.sparkfun.com/products/10293)
-1|[1.0M Ohm Resistor](https://www.sparkfun.com/products/11853)
-1|[Servo](https://www.sparkfun.com/products/10333)
-1|[ArduinoUno](https://www.sparkfun.com/products/11021)
-
-
-
 circuito.io
 ===========
 
